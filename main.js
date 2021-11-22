@@ -1,5 +1,5 @@
 // Variables
-const hamburgerMenuOpen = document.querySelector(`.fas.fa-bars`);
+const hamburgerMenuOpen = document.querySelector(`.header-right a i`);
 const hamburgerMenuContent = document.querySelector(`.hamburger-menu`);
 const hamburgerMenuClose = document.querySelector(`.close`);
 
