@@ -26,7 +26,7 @@ const hamburgerMenuClose = document.querySelector(`.close`);
 
 // // Close Hamburger Menù
 // hamburgerMenuClose.addEventListener(`click`, function(){
-//     hamburgerMenuContent.classList.remove(`active`);
+//     hamburgerMenuContent.classname = "hamburger-menu";
 // })
 // END BONUS .className
 //************************************************************************************
